@@ -3,12 +3,12 @@
   "identifier": "com.kraison.rezka.repo",
   "subtitle": "Нативный клиент HDRezka для iOS и iPadOS",
   "description": "Официальный источник автообновлений HDRezka для SideStore и AltStore.",
-  "sourceURL": "https://raw.githubusercontent.com/QbyteDev/HdRezka-Releases/main/altstore-source.json",
+  "sourceURL": "https://raw.githubusercontent.com/Proletarochka/HdRezka-Releases/main/altstore-source.json",
   "apps": [
     {
       "name": "HDRezka",
       "bundleIdentifier": "com.kraison.Rezka",
-      "developerName": "QbyteDev",
+      "developerName": "Proletarochka",
       "subtitle": "Нативный стриминговый клиент HDRezka",
       "localizedDescription": "Нативный клиент HDRezka для iPhone и iPad с поддержкой HLS, PiP, офлайн-загрузок и автоматического обхода блокировок.",
       "iconURL": "https://avatars.githubusercontent.com/u/5270717?v=4",
@@ -16,12 +16,12 @@
       "category": "entertainment",
       "versions": [
         {
-          "version": "1.0.11",
-          "buildVersion": "11",
-          "date": "2026-11-03T22:20:51Z",
-          "localizedDescription": "- Добавлена специфичная инжекция CDN-заголовков для внешних провайдеров видео (Collaps и Kodik)\n- iOS: исправлен парсинг видеопотоков, маршрутизация локального прокси и определение HLS-плейлистов\n- Android: улучшена передача контекста провайдеров между экранами и конфигурация ExoPlayer DataSource",
-          "downloadURL": "https://github.com/QbyteDev/HdRezka-Releases/releases/download/v1.0.11/Rezka.ipa",
-          "size": 25767787,
+          "version": "1.0.12",
+          "buildVersion": "12",
+          "date": "2026-11-14T13:49:05Z",
+          "localizedDescription": "Релиз HDRezka v1.0.12",
+          "downloadURL": "https://github.com/Proletarochka/HdRezka-Releases/releases/download/v1.0.12/Rezka.ipa",
+          "size": 25926255,
           "minOSVersion": "17.0"
         }
       ],
