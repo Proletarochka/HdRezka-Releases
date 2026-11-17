@@ -16,12 +16,12 @@
       "category": "entertainment",
       "versions": [
         {
-          "version": "1.0.16",
-          "buildVersion": "16",
-          "date": "2026-11-16T01:30:43Z",
-          "localizedDescription": "- Добавлены десктопные версии Rezka для **macOS** (Apple Silicon и Intel) и **Windows** (x64 MSI): единый планшетный интерфейс, встроенный HLS-плеер и поддержка IINA / VLC / mpv, вход через Google и по QR, облачная синхронизация Firestore, AI-ассистент с голосовым вводом и озвучкой пересказов, офлайн-загрузки, поиск торрентов Rutor и автообновления.\n- Исправлено распознавание HLS media-плейлистов с `#EXT-X-MEDIA-SEQUENCE` во встроенном прокси на Android, iOS и Desktop.",
-          "downloadURL": "https://github.com/Proletarochka/HdRezka-Releases/releases/download/v1.0.16/Rezka.ipa",
-          "size": 32654142,
+          "version": "1.0.17",
+          "buildVersion": "17",
+          "date": "2026-11-17T00:48:47Z",
+          "localizedDescription": "- Автоматические списки просмотров («Смотрю», «Запланировано», «Просмотрено»), отметка «Любимое» и кнопка списков на странице релиза.\n- Оценка релиза (лайк/дизлайк) на карточке деталей и в карточках рекомендаций AI.\n- Обновлённый логотип Rezka HD, единая панель действий на Android TV, улучшения фильтров поиска и офлайн-загрузок.\n- Улучшения AI-ассистента: равновысотные карточки рекомендаций с кнопкой «Посмотреть позже», полный контекст для пересказов и улучшенный подбор рекомендаций.\n- Улучшения облачной синхронизации Firestore и QR-вход.\n- Для Desktop: новая векторная иконка для macOS/Windows и улучшения работы с окном и треем.",
+          "downloadURL": "https://github.com/Proletarochka/HdRezka-Releases/releases/download/v1.0.17/Rezka.ipa",
+          "size": 32769616,
           "minOSVersion": "17.0"
         }
       ],
