@@ -16,12 +16,12 @@
       "category": "entertainment",
       "versions": [
         {
-          "version": "1.0.18",
-          "buildVersion": "18",
-          "date": "2026-11-18T12:14:27Z",
-          "localizedDescription": "- Улучшен AI-ассистент и пересказ серий: добавлен актуальный веб-поиск для подбора рекомендаций, поиска по сюжету и пересказа серий без спойлеров.\n- Исправлена расшифровка голосовых запросов в AI-чате и ускорено время ответа моделей.\n- Обновлена работа с личными и резервными AI-ключами во всех клиентах, увеличен таймаут ожидания сложных AI-запросов на iOS и iPadOS.",
-          "downloadURL": "https://github.com/Proletarochka/HdRezka-Releases/releases/download/v1.0.18/Rezka.ipa",
-          "size": 32761599,
+          "version": "1.0.19",
+          "buildVersion": "19",
+          "date": "2026-11-19T22:31:06Z",
+          "localizedDescription": "Релиз HDRezka v1.0.19",
+          "downloadURL": "https://github.com/Proletarochka/HdRezka-Releases/releases/download/v1.0.19/Rezka.ipa",
+          "size": 32792044,
           "minOSVersion": "17.0"
         }
       ],
