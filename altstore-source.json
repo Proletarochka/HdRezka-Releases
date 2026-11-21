@@ -16,12 +16,12 @@
       "category": "entertainment",
       "versions": [
         {
-          "version": "1.0.22",
-          "buildVersion": "22",
-          "date": "2026-11-20T10:16:50Z",
-          "localizedDescription": "Релиз HDRezka v1.0.22",
-          "downloadURL": "https://github.com/Proletarochka/HdRezka-Releases/releases/download/v1.0.22/Rezka.ipa",
-          "size": 32824043,
+          "version": "1.0.23",
+          "buildVersion": "23",
+          "date": "2026-11-21T12:03:47Z",
+          "localizedDescription": "Релиз HDRezka v1.0.23",
+          "downloadURL": "https://github.com/Proletarochka/HdRezka-Releases/releases/download/v1.0.23/Rezka.ipa",
+          "size": 32855554,
           "minOSVersion": "17.0"
         }
       ],
