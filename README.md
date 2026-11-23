@@ -2,7 +2,7 @@
 
 Официальный репозиторий публичных релизов нативных клиентов **Rezka** для Android, Android TV, iOS / iPadOS, macOS и Windows.
 
-## 🚀 Актуальный релиз: [v1.0.29](https://github.com/Proletarochka/HdRezka-Releases/releases/tag/v1.0.29) (2026-11-22)
+## 🚀 Актуальный релиз: [v1.0.30](https://github.com/Proletarochka/HdRezka-Releases/releases/tag/v1.0.30) (2026-11-23)
 
 ## 📥 Скачать свежие версии
 
@@ -10,13 +10,13 @@
 
 | Платформа | Устройство | Файл установки | Формат | Размер |
 |---|---|---|---|---|
-| **Android TV** | Телевизоры и приставки (Google TV / Android TV) | [rezka-tv-release.apk](https://github.com/Proletarochka/HdRezka-Releases/releases/latest/download/rezka-tv-release.apk) | APK | 69.6 МБ |
+| **Android TV** | Телевизоры и приставки (Google TV / Android TV) | [rezka-tv-release.apk](https://github.com/Proletarochka/HdRezka-Releases/releases/latest/download/rezka-tv-release.apk) | APK | 69.5 МБ |
 | **Android Mobile** | Смартфоны на Android | [rezka-mobile-release.apk](https://github.com/Proletarochka/HdRezka-Releases/releases/latest/download/rezka-mobile-release.apk) | APK | 69.5 МБ |
 | **Android Tablet** | Планшеты на Android | [rezka-tablet-release.apk](https://github.com/Proletarochka/HdRezka-Releases/releases/latest/download/rezka-tablet-release.apk) | APK | 69.5 МБ |
 | **Apple iOS / iPadOS** | iPhone и iPad (SideStore / AltStore / TrollStore) | [Rezka.ipa](https://github.com/Proletarochka/HdRezka-Releases/releases/latest/download/Rezka.ipa) | IPA | 31.5 МБ |
-| **macOS (Apple Silicon)** | Mac на чипах M1 и новее | [rezka-desktop-arm64.dmg](https://github.com/Proletarochka/HdRezka-Releases/releases/latest/download/rezka-desktop-arm64.dmg) | DMG | 174.8 МБ |
-| **macOS (Intel)** | Mac на процессорах Intel x86_64 (без торрентов) | [rezka-desktop-x64.dmg](https://github.com/Proletarochka/HdRezka-Releases/releases/latest/download/rezka-desktop-x64.dmg) | DMG | 174.9 МБ |
-| **Windows** | ПК на Windows (x64) | [rezka-desktop-x64.msi](https://github.com/Proletarochka/HdRezka-Releases/releases/latest/download/rezka-desktop-x64.msi) | MSI | 170.2 МБ |
+| **macOS (Apple Silicon)** | Mac на чипах M1 и новее | [rezka-desktop-arm64.dmg](https://github.com/Proletarochka/HdRezka-Releases/releases/latest/download/rezka-desktop-arm64.dmg) | DMG | 174.9 МБ |
+| **macOS (Intel)** | Mac на процессорах Intel x86_64 (без торрентов) | [rezka-desktop-x64.dmg](https://github.com/Proletarochka/HdRezka-Releases/releases/latest/download/rezka-desktop-x64.dmg) | DMG | 175.0 МБ |
+| **Windows** | ПК на Windows (x64) | [rezka-desktop-x64.msi](https://github.com/Proletarochka/HdRezka-Releases/releases/latest/download/rezka-desktop-x64.msi) | MSI | 170.3 МБ |
 
 ## 📝 Примечания по установке
 
